@@ -1,0 +1,6 @@
+.git/
+*/build/*
+.DS_Store
+.gitignore
+.vscode/
+images/

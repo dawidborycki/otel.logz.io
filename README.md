@@ -20,12 +20,16 @@ or
 ```
 curl http://localhost:8082/ping
 ```
+
 As shown in the figure below:
+
 ![Figure](/images/03.png)
 
 You will then see logs: 
+
 ![Figure](/images/04.png)
 
-and spans in the Logz.io Jager UI:
+and spans in the Logz.io Jaeger UI:
+
 ![Figure](/images/07.png)
 
